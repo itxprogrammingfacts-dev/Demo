@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { Link } from "react-router-dom";
 import logos from "../assets/logos.png";
-
+// hy
 const Navbar = () => {
   const [catOpen, setCatOpen] = useState(false);
   const [shipOpen, setShipOpen] = useState(false);
